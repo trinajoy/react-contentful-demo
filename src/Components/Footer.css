@@ -1,0 +1,11 @@
+.footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  padding: 10px 0px;
+  background: #f4f4f4;
+}
+
+.footer .fab {
+  font-size: 25px;
+}
