@@ -127,8 +127,8 @@ class Home extends Component {
               <div className="row">
                 {this.state.homefeature.map((item, index) => {
                   return (
-                    <div key={index} className="col-md-4">
-                      <div className="feature-wrap">
+                    <div key={index} className="col-lg-4">
+                      <div className="feature-wrap ">
                         <i className={item.fields.featureIcon}></i>
                         <h2>{item.fields.featureTitle}</h2>
                         <h3>{item.fields.featureDescription}</h3>
@@ -181,7 +181,7 @@ class Home extends Component {
             <p className="lead">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
               aliquam laoreet nunc, eu gravida ex interdum in. Curabitur feugiat
-              et mauris non scelerisque.{' '}
+              et mauris non scelerisque.
             </p>
           </div>
           {this.state.homefaqs.length === 0 ? (

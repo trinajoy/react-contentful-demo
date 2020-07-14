@@ -16,7 +16,7 @@ class Contact extends Component {
             <div className="contact-form">
               <iframe
                 src="https://docs.google.com/forms/d/e/1FAIpQLSdtIiYJk1LqfIE2GWHFrZcokpNOH8TzrwpQX5KQaJVF7ysE6g/viewform?embedded=true"
-                width="640"
+                width="100%"
                 height="485"
                 frameBorder="0"
                 marginHeight="0"

@@ -232,6 +232,7 @@ input[type='checkbox']:checked ~ .grid {
     width: 50%;
   }
 }
+
 @media screen and (max-width: 500px) {
   .grid .grid-item {
     width: 100%;

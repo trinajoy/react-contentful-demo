@@ -17,6 +17,13 @@ React app using - Contentful (Headless CMS) & Bootstrap.
 - to use in Component: `const API_KEY = process.env.REACT_APP_API_KEY`
 - see documentation: https://create-react-app.dev/docs/adding-custom-environment-variables/#adding-development-environment-variables-in-env
 
+## Images
+
+- HomePage Slider: 1169 × 487
+- HomePage Gallery: 800 × 600
+- BlogPage: 616 × 293
+- ServicePage Icons:- 81 × 81
+
 ## Code Snippets
 
 - HomePage - Image Gallery
