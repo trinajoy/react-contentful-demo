@@ -201,7 +201,7 @@ class Home extends Component {
                   {this.state.homefaqs.map((item, num = 0) => {
                     num = num + 1
                     return (
-                      <div className="panel panel-default">
+                      <div key={num} className="panel panel-default">
                         <div
                           className="panel-heading"
                           role="tab"
