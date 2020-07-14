@@ -12,7 +12,7 @@ React app using - Contentful (Headless CMS) & Bootstrap.
 ## Custom Environment Variables
 
 - Use custom environment variables to hide API Key
-- see `.env_sample` for how to add your api key
+- see `.env_sample` for how to add api key
 - add `.env` to `.gitignore`
 - to use in Component: `const API_KEY = process.env.REACT_APP_API_KEY`
 - see documentation: https://create-react-app.dev/docs/adding-custom-environment-variables/#adding-development-environment-variables-in-env
@@ -26,4 +26,4 @@ React app using - Contentful (Headless CMS) & Bootstrap.
 
 ## To Run Project
 
-npm start
+npm run dev
