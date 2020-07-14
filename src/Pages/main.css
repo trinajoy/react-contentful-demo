@@ -115,16 +115,6 @@ input[type='checkbox']:checked ~ .grid {
 .grid .grid-item:hover {
   opacity: 1;
 }
-@media screen and (max-width: 1024px) {
-  .grid .grid-item {
-    width: 50%;
-  }
-}
-@media screen and (max-width: 480px) {
-  .grid .grid-item {
-    width: 100%;
-  }
-}
 
 .grid img {
   max-width: 100%;
@@ -235,4 +225,15 @@ input[type='checkbox']:checked ~ .grid {
 }
 .btn.btn-primary a {
   color: #fff;
+}
+
+@media screen and (max-width: 1024px) {
+  .grid .grid-item {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 500px) {
+  .grid .grid-item {
+    width: 100%;
+  }
 }
