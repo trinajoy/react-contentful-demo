@@ -6,7 +6,7 @@ React app using - Contentful (Headless CMS) & Bootstrap.
 
 ## Specifications
 
-- Fetch data from Contentful in React App using Content Management API
+- Fetch images and copy from Contentful using Content Management API
 - Use Google Form on Contact Page
 
 ## Custom Environment Variables
