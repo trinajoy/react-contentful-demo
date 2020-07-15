@@ -11,7 +11,7 @@ React app using - Contentful (Headless CMS) & Bootstrap.
 
 ## Custom Environment Variables
 
-- Use custom environment variables to hide API Key
+- Use custom environment variables to hide Contentful API Key
 - see `.env_sample` for how to add api key
 - add `.env` to `.gitignore`
 - to use in Component: `const API_KEY = process.env.REACT_APP_API_KEY`
@@ -24,7 +24,7 @@ React app using - Contentful (Headless CMS) & Bootstrap.
 - BlogPage: 616 × 293
 - ServicePage Icons:- 81 × 81
 
-## Code Snippets
+## Sources
 
 - HomePage - Image Gallery
   https://www.cssscript.com/pure-css-photo-gallery-image-lightbox-support/
